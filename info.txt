@@ -1,0 +1,13 @@
+{
+ "Name": "Cookie Garden Helper - Reloaded",
+ "ID": "cookiegardenhelperreloaded",
+ "Author": "PeachyFang",
+ "Description": "Automate your garden in Cookie Clicker - reloaded",
+ "ModVersion": 1.8,
+ "GameVersion": 2.048,
+ "Date": "12/25/2025",
+ "Dependencies": [],
+ "Disabled": 0,
+ "AllowSteamAchievs": 1,
+ "Workshop": "2686171273"
+}
